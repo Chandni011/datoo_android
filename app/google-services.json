@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "397854649768",
+    "project_id": "datoo-365d7",
+    "storage_bucket": "datoo-365d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397854649768:android:bc7aadafee93d367e4c19d",
+        "android_client_info": {
+          "package_name": "com.angopapo.datooapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397854649768-7c97104rij8c50jdunfkbs3sru03ifjr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.angopapo.datooapp",
+            "certificate_hash": "29049b5cf26474b7e98a699097b4e1a47262b024"
+          }
+        },
+        {
+          "client_id": "397854649768-ml3aamjsqe6jadiicrsu8n931pvju0n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApgL9QdzJTjgK23a0PrGD0hhbmfxk_IcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397854649768-ml3aamjsqe6jadiicrsu8n931pvju0n1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
